@@ -59,7 +59,7 @@ Additional capabilities:
 </p>
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
-    <img src="spotify-track-liker-bot-architecture.png" alt="spotify-track-liker-bot-architecture" width="95%">
+    <img src="spotify-track-liker-bot-architecture.png" alt="spotify-track-liker-bot-architecture" width="65%">
   </a>
 </p>
 
